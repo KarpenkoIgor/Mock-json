@@ -1,11 +1,12 @@
-﻿{
+{
   "profiles": {
     "Mock.Json": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7072",
+      "applicationUrl": "http://localhost:7072",
+      "externalUrlConfiguration": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

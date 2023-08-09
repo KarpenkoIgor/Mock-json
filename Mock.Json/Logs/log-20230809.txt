@@ -176,3 +176,293 @@
 09-08-2023 11:36:12 [INF] [] [  ] 42: filePath: ./JsonFiles\1.json
 09-08-2023 11:36:12 [INF] [] [  ] 46: File exists: True
 09-08-2023 11:36:12 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 12.4465 ms
+09-08-2023 12:28:32 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 217.2461 ms
+09-08-2023 12:28:32 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 93.8631 ms
+09-08-2023 12:29:11 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 314.1710 ms
+09-08-2023 12:29:11 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 145.7790 ms
+09-08-2023 12:34:44 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 337.5738 ms
+09-08-2023 12:34:44 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 129.3287 ms
+09-08-2023 12:34:45 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 282.2905 ms
+09-08-2023 12:34:45 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 2.4195 ms
+09-08-2023 12:34:47 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.5006 ms
+09-08-2023 12:34:48 [INF] [] [  ] 23: filename: 1
+09-08-2023 12:34:48 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 12:34:48 [INF] [] [  ] 27: File exists: True
+09-08-2023 12:34:48 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 89.5989 ms
+09-08-2023 12:34:50 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.0487 ms
+09-08-2023 12:34:57 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 12:34:57 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 12:34:57 [INF] [] [  ] 27: File exists: False
+09-08-2023 12:34:57 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 44.6718 ms
+09-08-2023 12:34:59 [INF] [] [  ] 23: filename: 1
+09-08-2023 12:34:59 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 12:34:59 [INF] [] [  ] 27: File exists: True
+09-08-2023 12:34:59 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 9.2177 ms
+09-08-2023 12:35:29 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 200.9187 ms
+09-08-2023 12:35:29 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 106.0781 ms
+09-08-2023 12:36:12 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 177.5459 ms
+09-08-2023 12:36:12 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 92.3980 ms
+09-08-2023 12:36:18 [INF] [] [  ] 23: filename: 1
+09-08-2023 12:36:18 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 12:36:18 [INF] [] [  ] 27: File exists: True
+09-08-2023 12:36:18 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 70.3645 ms
+09-08-2023 12:36:48 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 215.3304 ms
+09-08-2023 12:36:49 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 133.7341 ms
+09-08-2023 12:40:08 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 12:40:10 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 190.0469 ms
+09-08-2023 12:40:10 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 115.2038 ms
+09-08-2023 12:40:20 [INF] [] [  ] 23: filename: 1
+09-08-2023 12:40:20 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 12:40:20 [INF] [] [  ] 27: File exists: True
+09-08-2023 12:40:20 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 64.3577 ms
+09-08-2023 12:41:13 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 12:41:15 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 188.6708 ms
+09-08-2023 12:41:15 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 110.4360 ms
+09-08-2023 12:41:55 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 12:41:57 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 182.8893 ms
+09-08-2023 12:41:57 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 113.7454 ms
+09-08-2023 12:45:54 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 12:45:55 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 240.3951 ms
+09-08-2023 12:45:56 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 79.8910 ms
+09-08-2023 14:10:27 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 14:10:28 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:10:44 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 14:10:44 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:13:21 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 14:13:21 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:13:30 [INF] [] [  ] Starting Mock.Json service
+09-08-2023 14:17:57 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:18:29 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:20:02 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:20:41 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:20:59 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:21:27 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:24:01 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:24:29 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:24:33 [INF] [] [  ] 23: filename: 1
+09-08-2023 14:24:33 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 14:24:33 [INF] [] [  ] 27: File exists: True
+09-08-2023 14:24:33 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 219.3767 ms
+09-08-2023 14:24:33 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 383.1761 ms
+09-08-2023 14:24:33 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 14:24:33 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 14:24:33 [INF] [] [  ] 27: File exists: False
+09-08-2023 14:24:33 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 47.9418 ms
+09-08-2023 14:24:34 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 369.2457 ms
+09-08-2023 14:26:38 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:26:38 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:27:03 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:27:04 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 223.4806 ms
+09-08-2023 14:27:04 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 118.2157 ms
+09-08-2023 14:27:10 [INF] [] [  ] 23: filename: 1
+09-08-2023 14:27:10 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 14:27:10 [INF] [] [  ] 27: File exists: True
+09-08-2023 14:27:10 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 72.7849 ms
+09-08-2023 14:33:08 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:33:10 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:33:23 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:33:23 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 14:35:11 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:35:44 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 16.2928 ms
+09-08-2023 14:39:16 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:39:29 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:39:43 [INF] [] [  ] 23: filename: 1
+09-08-2023 14:39:43 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 14:39:43 [INF] [] [  ] 27: File exists: True
+09-08-2023 14:39:43 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 91.6792 ms
+09-08-2023 14:39:43 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 14:39:43 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 14:39:43 [INF] [] [  ] 27: File exists: False
+09-08-2023 14:39:43 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 58.9373 ms
+09-08-2023 14:40:06 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 0.7169 ms
+09-08-2023 14:40:06 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 141.6662 ms
+09-08-2023 14:40:06 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 85.7883 ms
+09-08-2023 14:40:06 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 93.1090 ms
+09-08-2023 14:40:06 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 120.6622 ms
+09-08-2023 14:40:07 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.5251 ms
+09-08-2023 14:40:07 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 104.0987 ms
+09-08-2023 14:41:17 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:41:37 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 187.5836 ms
+09-08-2023 14:41:37 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 19.9398 ms
+09-08-2023 14:41:37 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 26.2645 ms
+09-08-2023 14:41:37 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 48.3079 ms
+09-08-2023 14:41:37 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.2230 ms
+09-08-2023 14:41:38 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 93.9040 ms
+09-08-2023 14:47:00 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:47:26 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 167.2850 ms
+09-08-2023 14:47:26 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 96.1653 ms
+09-08-2023 14:47:26 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 96.1843 ms
+09-08-2023 14:47:26 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 121.1168 ms
+09-08-2023 14:47:27 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.9426 ms
+09-08-2023 14:47:27 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 106.1119 ms
+09-08-2023 14:51:38 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 174.8803 ms
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 18.5066 ms
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 31.6351 ms
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 70.4601 ms
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.6365 ms
+09-08-2023 14:52:35 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 85.3696 ms
+09-08-2023 14:52:58 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:52:59 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 18.3642 ms
+09-08-2023 14:52:59 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 163.3935 ms
+09-08-2023 14:53:05 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 124.1422 ms
+09-08-2023 14:53:15 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:53:16 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 204.8094 ms
+09-08-2023 14:53:16 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 116.5650 ms
+09-08-2023 14:53:52 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:53:53 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 254.8443 ms
+09-08-2023 14:53:53 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 115.1020 ms
+09-08-2023 14:54:16 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 14:54:19 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 177.4420 ms
+09-08-2023 14:54:20 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 102.8456 ms
+09-08-2023 14:54:21 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 22.1182 ms
+09-08-2023 14:54:21 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.9269 ms
+09-08-2023 14:54:21 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 8.1979 ms
+09-08-2023 14:54:22 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 0.8484 ms
+09-08-2023 15:00:39 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:00:39 [WRN] [] [  ] Overriding address(es) '"https://localhost:5001/, http://localhost:5000/"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 15:01:19 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:01:19 [WRN] [] [  ] Overriding address(es) '"https://localhost:5001/, http://localhost:5000/"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 15:04:30 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:04:30 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 15:04:50 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:04:50 [WRN] [] [  ] Overriding address(es) '"https://localhost:7072"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+09-08-2023 15:05:09 [INF] [] [  ] HTTP "GET" "/" responded 307 in 14.6825 ms
+09-08-2023 15:05:28 [INF] [] [  ] HTTP "GET" "/" responded 307 in 0.8722 ms
+09-08-2023 15:06:06 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:07:30 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:07:42 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:10:04 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:15:59 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:16:32 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:16:33 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:17:29 [INF] [] [  ] Starting Mock.Json service: 
+09-08-2023 15:17:31 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:18:13 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:18:23 [INF] [] [  ] HTTP "GET" "/" responded 307 in 2.1029 ms
+09-08-2023 15:18:29 [INF] [] [  ] HTTP "GET" "/" responded 307 in 0.3938 ms
+09-08-2023 15:18:31 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 0.0235 ms
+09-08-2023 15:19:08 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:19:08 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:19:08 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:19:08 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 66.1907 ms
+09-08-2023 15:19:08 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 15:19:08 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 15:19:08 [INF] [] [  ] 27: File exists: False
+09-08-2023 15:19:08 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 39.0012 ms
+09-08-2023 15:19:17 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 0.0189 ms
+09-08-2023 15:20:32 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:21:29 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:22:03 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 12.3990 ms
+09-08-2023 15:22:03 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 175.1904 ms
+09-08-2023 15:22:03 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 72.7267 ms
+09-08-2023 15:22:03 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 70.5222 ms
+09-08-2023 15:22:03 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 78.0525 ms
+09-08-2023 15:22:04 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.4408 ms
+09-08-2023 15:22:04 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 85.8342 ms
+09-08-2023 15:22:23 [INF] [] [  ] HTTP "GET" "/" responded 404 in 1.8565 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 0.2169 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 12.0048 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 19.6568 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 21.1930 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 31.7070 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 2.9567 ms
+09-08-2023 15:22:28 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.2983 ms
+09-08-2023 15:22:36 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 15.8867 ms
+09-08-2023 15:22:36 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.0017 ms
+09-08-2023 15:22:51 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:22:56 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 198.5942 ms
+09-08-2023 15:22:56 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 93.8382 ms
+09-08-2023 15:22:57 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 12.9822 ms
+09-08-2023 15:22:57 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.1594 ms
+09-08-2023 15:22:58 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 11.5877 ms
+09-08-2023 15:22:58 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 0.7042 ms
+09-08-2023 15:24:11 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:24:20 [INF] [] [  ] HTTP "GET" "/" responded 307 in 27.9445 ms
+09-08-2023 15:24:30 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 1.6941 ms
+09-08-2023 15:24:30 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 242.9827 ms
+09-08-2023 15:24:31 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 147.0264 ms
+09-08-2023 15:24:31 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 150.2401 ms
+09-08-2023 15:24:31 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 164.4839 ms
+09-08-2023 15:24:31 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.5305 ms
+09-08-2023 15:24:31 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 113.5784 ms
+09-08-2023 15:24:47 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 0.2354 ms
+09-08-2023 15:25:00 [INF] [] [  ] HTTP "GET" "/q" responded 307 in 0.0548 ms
+09-08-2023 15:25:07 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 0.0451 ms
+09-08-2023 15:25:35 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:25:40 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 214.1185 ms
+09-08-2023 15:25:40 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 72.0060 ms
+09-08-2023 15:25:45 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 2.0251 ms
+09-08-2023 15:26:01 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 24.1017 ms
+09-08-2023 15:26:01 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 45.9216 ms
+09-08-2023 15:26:01 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 50.4563 ms
+09-08-2023 15:26:01 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 63.6205 ms
+09-08-2023 15:26:02 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.2164 ms
+09-08-2023 15:26:02 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.4918 ms
+09-08-2023 15:26:09 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:26:09 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:26:09 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:26:09 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 74.3949 ms
+09-08-2023 15:26:39 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 15:26:49 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 15:26:56 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 196.3630 ms
+09-08-2023 15:26:56 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 71.7964 ms
+09-08-2023 15:27:01 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:27:01 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:27:01 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:27:02 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 62.2386 ms
+09-08-2023 15:27:21 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 15:27:41 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:27:51 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 12.9505 ms
+09-08-2023 15:27:51 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:27:51 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:27:51 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:27:51 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 60.7717 ms
+09-08-2023 15:27:51 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 15:27:51 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 15:27:51 [INF] [] [  ] 27: File exists: False
+09-08-2023 15:27:51 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 34.6234 ms
+09-08-2023 15:27:57 [INF] [] [  ] HTTP "GET" "/1" responded 307 in 0.3289 ms
+09-08-2023 15:27:57 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:27:57 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:27:57 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:27:57 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 48.1139 ms
+09-08-2023 15:28:14 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:28:24 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:28:24 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:28:24 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:28:24 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 77.8826 ms
+09-08-2023 15:42:26 [INF] [] [  ] Starting Mock.Json service: http://localhost:7070, https://localhost:7073
+09-08-2023 15:42:37 [INF] [] [  ] HTTP "GET" "/" responded 404 in 16.9815 ms
+09-08-2023 15:42:42 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:42:42 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:42:42 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:42:42 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 81.3605 ms
+09-08-2023 15:42:42 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 15:42:42 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 15:42:42 [INF] [] [  ] 27: File exists: False
+09-08-2023 15:42:42 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 42.1624 ms
+09-08-2023 15:43:00 [INF] [] [  ] HTTP "GET" "/" responded 404 in 0.0751 ms
+09-08-2023 15:43:04 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:43:04 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:43:04 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:43:04 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 10.0268 ms
+09-08-2023 15:43:57 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 15:44:06 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:44:06 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:44:06 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:44:06 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 85.4977 ms
+09-08-2023 15:44:10 [INF] [] [  ] HTTP "GET" "/user/1" responded 404 in 1.4175 ms
+09-08-2023 15:44:55 [INF] [] [  ] 38: folder:user
+09-08-2023 15:44:55 [INF] [] [  ] 39: filename: 1
+09-08-2023 15:44:55 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 15:44:55 [INF] [] [  ] 42: filePath: ./JsonFiles\user\1.json
+09-08-2023 15:44:55 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 15:44:55 [INF] [] [  ] 46: File exists: True
+09-08-2023 15:44:55 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 31.0821 ms
+09-08-2023 15:48:38 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 15:48:50 [INF] [] [  ] HTTP "GET" "/" responded 404 in 14.7574 ms
+09-08-2023 15:49:04 [INF] [] [  ] 23: filename: 1
+09-08-2023 15:49:04 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 15:49:04 [INF] [] [  ] 27: File exists: True
+09-08-2023 15:49:04 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 73.9527 ms
