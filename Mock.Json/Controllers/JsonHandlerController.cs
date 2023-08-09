@@ -39,7 +39,7 @@ namespace Mock.Json.Controllers
 
             if (!Directory.Exists(folderPath) || !System.IO.File.Exists(filePath))
             {
-                var errorMessage = new { message = $"File with name '{filename}' not found" };
+                var errorMessage = new { message = $"File with folder '{folder}' and name '{filename}' not found" };
                 return NotFound(errorMessage);
             }
 
