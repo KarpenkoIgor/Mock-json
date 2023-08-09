@@ -158,3 +158,21 @@
 09-08-2023 11:10:03 [INF] [] [  ] Directory exists: True
 09-08-2023 11:10:03 [INF] [] [  ] File exists: True
 09-08-2023 11:10:03 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 12.0875 ms
+09-08-2023 11:26:43 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 189.6911 ms
+09-08-2023 11:26:43 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 205.0660 ms
+09-08-2023 11:35:26 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 171.9251 ms
+09-08-2023 11:35:26 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 90.8322 ms
+09-08-2023 11:35:31 [INF] [] [  ] 39: file: 1
+09-08-2023 11:35:31 [INF] [] [  ] 42: filePath: ./JsonFiles\1.json
+09-08-2023 11:35:31 [INF] [] [  ] 46: File exists: True
+09-08-2023 11:35:31 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 63.7803 ms
+09-08-2023 11:36:07 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 193.8408 ms
+09-08-2023 11:36:07 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 101.6802 ms
+09-08-2023 11:36:09 [INF] [] [  ] 39: filename: 1
+09-08-2023 11:36:09 [INF] [] [  ] 42: filePath: ./JsonFiles\1.json
+09-08-2023 11:36:09 [INF] [] [  ] 46: File exists: True
+09-08-2023 11:36:10 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 65.5257 ms
+09-08-2023 11:36:12 [INF] [] [  ] 39: filename: 1
+09-08-2023 11:36:12 [INF] [] [  ] 42: filePath: ./JsonFiles\1.json
+09-08-2023 11:36:12 [INF] [] [  ] 46: File exists: True
+09-08-2023 11:36:12 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 12.4465 ms

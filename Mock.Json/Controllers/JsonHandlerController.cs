@@ -18,10 +18,13 @@ namespace Mock.Json.Controllers
 
         [HttpGet("{filename}")]
         public async Task<IActionResult> GetJsonAsync(string filename)
-        
+
         {
+            Log.Information($"39: filename: {filename}");
+            Log.Information($"42: filePath: {Path.Combine(_configuration["JsonHandler:FolderPath"], $"{filename}.json")}");
             string filePath = Path.Combine(_configuration["JsonHandler:FolderPath"], $"{filename}.json");
 
+            Log.Information($"46: File exists: {System.IO.File.Exists(filePath)}");
             if (!System.IO.File.Exists(filePath))
             {
                 var errorMessage = new { message = $"File with name '{filename}' not found" };
@@ -36,7 +39,7 @@ namespace Mock.Json.Controllers
         public async Task<IActionResult> GetJsonWithFolderPathAsync(string folder, string filename)
         {
             Log.Information($"38: folder:{folder}");
-            Log.Information($"39: file: {filename}");
+            Log.Information($"39: filename: {filename}");
             Log.Information($"40: folderPath: {Path.Combine(_configuration["JsonHandler:FolderPath"], folder)}");
             var folderPath = Path.Combine(_configuration["JsonHandler:FolderPath"], folder);
             Log.Information($"42: filePath: {Path.Combine(folderPath, $"{filename}.json")}");
