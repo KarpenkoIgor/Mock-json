@@ -1,0 +1,160 @@
+09-08-2023 09:26:26 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 297.7938 ms
+09-08-2023 09:26:27 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 126.5858 ms
+09-08-2023 09:26:43 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 76.1477 ms
+09-08-2023 09:26:43 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 13.1734 ms
+09-08-2023 09:27:01 [INF] [] [  ] HTTP "GET" "/2" responded 404 in 0.6964 ms
+09-08-2023 09:58:23 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 11.2049 ms
+09-08-2023 09:58:23 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 167.1885 ms
+09-08-2023 09:58:23 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 43.0521 ms
+09-08-2023 09:58:23 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 42.2014 ms
+09-08-2023 09:58:24 [INF] [] [  ] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 55.7400 ms
+09-08-2023 09:58:24 [INF] [] [  ] HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 1.8427 ms
+09-08-2023 09:58:24 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 124.7893 ms
+09-08-2023 10:00:09 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 219.5536 ms
+09-08-2023 10:00:10 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 111.6231 ms
+09-08-2023 10:00:31 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 208.1176 ms
+09-08-2023 10:00:32 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 140.2986 ms
+09-08-2023 10:00:52 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 9.0575 ms
+09-08-2023 10:00:52 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 2.1026 ms
+09-08-2023 10:01:40 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 188.1729 ms
+09-08-2023 10:01:40 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 138.4174 ms
+09-08-2023 10:05:09 [INF] [] [  ] HTTP "GET" "/" responded 404 in 15.4660 ms
+09-08-2023 10:05:41 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 166.4465 ms
+09-08-2023 10:05:41 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 108.7176 ms
+09-08-2023 10:06:16 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 151.6539 ms
+09-08-2023 10:06:16 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 104.6607 ms
+09-08-2023 10:06:53 [INF] [] [  ] HTTP "GET" "/" responded 404 in 18.7789 ms
+09-08-2023 10:07:07 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 184.0429 ms
+09-08-2023 10:07:07 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 90.4002 ms
+09-08-2023 10:07:31 [INF] [] [  ] HTTP "GET" "/" responded 404 in 22.3956 ms
+09-08-2023 10:08:03 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 90.4957 ms
+09-08-2023 10:40:17 [INF] [] [  ] HTTP "GET" "/" responded 404 in 14.4627 ms
+09-08-2023 10:40:24 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 66.3772 ms
+09-08-2023 10:40:29 [INF] [] [  ] HTTP "GET" "/2" responded 404 in 34.1806 ms
+09-08-2023 10:40:56 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 16.2018 ms
+09-08-2023 10:40:57 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 4.2996 ms
+09-08-2023 10:41:00 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 0.9095 ms
+09-08-2023 10:49:27 [INF] [] [  ] HTTP "GET" "/" responded 404 in 13.0254 ms
+09-08-2023 10:49:32 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 58.7244 ms
+09-08-2023 10:50:08 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 194.0953 ms
+09-08-2023 10:50:08 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 102.5138 ms
+09-08-2023 10:59:34 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 180.4672 ms
+09-08-2023 10:59:34 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 104.4223 ms
+09-08-2023 10:59:37 [INF] [] [  ] HTTP "GET" "/swagger/1" responded 404 in 2.5981 ms
+09-08-2023 10:59:42 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 78.8886 ms
+09-08-2023 11:00:14 [INF] [] [  ] folder:user
+09-08-2023 11:00:14 [INF] [] [  ] file: 1
+09-08-2023 11:00:14 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:00:14 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:00:14 [INF] [] [  ] Directory exists: False
+09-08-2023 11:00:14 [INF] [] [  ] File exists: False
+09-08-2023 11:00:14 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 52.9279 ms
+09-08-2023 11:00:15 [INF] [] [  ] folder:user
+09-08-2023 11:00:15 [INF] [] [  ] file: 1
+09-08-2023 11:00:15 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:00:15 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:00:15 [INF] [] [  ] Directory exists: False
+09-08-2023 11:00:15 [INF] [] [  ] File exists: False
+09-08-2023 11:00:15 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 9.4397 ms
+09-08-2023 11:00:55 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 196.2639 ms
+09-08-2023 11:00:55 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 97.1028 ms
+09-08-2023 11:01:05 [INF] [] [  ] folder:user
+09-08-2023 11:01:05 [INF] [] [  ] file: 1
+09-08-2023 11:01:05 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:01:05 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:01:05 [INF] [] [  ] Directory exists: True
+09-08-2023 11:01:05 [INF] [] [  ] File exists: True
+09-08-2023 11:01:05 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 76.3417 ms
+09-08-2023 11:01:06 [INF] [] [  ] folder:user
+09-08-2023 11:01:06 [INF] [] [  ] file: 1
+09-08-2023 11:01:06 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:01:06 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:01:06 [INF] [] [  ] Directory exists: True
+09-08-2023 11:01:06 [INF] [] [  ] File exists: True
+09-08-2023 11:01:06 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 12.4645 ms
+09-08-2023 11:05:00 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 220.5914 ms
+09-08-2023 11:05:00 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 98.4402 ms
+09-08-2023 11:05:13 [INF] [] [  ] folder:user
+09-08-2023 11:05:13 [INF] [] [  ] file: 1
+09-08-2023 11:05:13 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:05:13 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:05:13 [INF] [] [  ] Directory exists: True
+09-08-2023 11:05:13 [INF] [] [  ] File exists: True
+09-08-2023 11:05:13 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 65.2841 ms
+09-08-2023 11:05:14 [INF] [] [  ] folder:user
+09-08-2023 11:05:14 [INF] [] [  ] file: 1
+09-08-2023 11:05:14 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:05:14 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:05:14 [INF] [] [  ] Directory exists: True
+09-08-2023 11:05:14 [INF] [] [  ] File exists: True
+09-08-2023 11:05:14 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 9.9652 ms
+09-08-2023 11:05:39 [INF] [] [  ] folder:user
+09-08-2023 11:05:39 [INF] [] [  ] file: 
+09-08-2023 11:05:39 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:05:39 [INF] [] [  ] filePath: ./JsonFiles\user\.json
+09-08-2023 11:05:39 [INF] [] [  ] Directory exists: True
+09-08-2023 11:05:39 [INF] [] [  ] File exists: False
+09-08-2023 11:05:39 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 23.9223 ms
+09-08-2023 11:05:47 [INF] [] [  ] folder:user
+09-08-2023 11:05:47 [INF] [] [  ] file: 3
+09-08-2023 11:05:47 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:05:47 [INF] [] [  ] filePath: ./JsonFiles\user\3.json
+09-08-2023 11:05:47 [INF] [] [  ] Directory exists: True
+09-08-2023 11:05:47 [INF] [] [  ] File exists: False
+09-08-2023 11:05:47 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 13.7539 ms
+09-08-2023 11:05:57 [INF] [] [  ] folder:user1
+09-08-2023 11:05:57 [INF] [] [  ] file: 3
+09-08-2023 11:05:57 [INF] [] [  ] folderPath: ./JsonFiles\user1
+09-08-2023 11:05:57 [INF] [] [  ] filePath: ./JsonFiles\user1\3.json
+09-08-2023 11:05:57 [INF] [] [  ] Directory exists: False
+09-08-2023 11:05:57 [INF] [] [  ] File exists: False
+09-08-2023 11:05:57 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 13.8690 ms
+09-08-2023 11:07:20 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 186.2029 ms
+09-08-2023 11:07:21 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 113.5445 ms
+09-08-2023 11:07:24 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 62.7875 ms
+09-08-2023 11:08:59 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 404 in 1.2421 ms
+09-08-2023 11:09:06 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 69.2380 ms
+09-08-2023 11:09:29 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 187.6099 ms
+09-08-2023 11:09:29 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 95.6280 ms
+09-08-2023 11:09:38 [INF] [] [  ] folder:user
+09-08-2023 11:09:38 [INF] [] [  ] file: 1
+09-08-2023 11:09:38 [INF] [] [  ] folderPath: ./JsonFiles\user
+09-08-2023 11:09:38 [INF] [] [  ] filePath: ./JsonFiles\user\1.json
+09-08-2023 11:09:38 [INF] [] [  ] Directory exists: True
+09-08-2023 11:09:38 [INF] [] [  ] File exists: True
+09-08-2023 11:09:38 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 70.1737 ms
+09-08-2023 11:09:44 [INF] [] [  ] folder:group/user
+09-08-2023 11:09:44 [INF] [] [  ] file: 1
+09-08-2023 11:09:44 [INF] [] [  ] folderPath: ./JsonFiles\group/user
+09-08-2023 11:09:44 [INF] [] [  ] filePath: ./JsonFiles\group/user\1.json
+09-08-2023 11:09:44 [INF] [] [  ] Directory exists: False
+09-08-2023 11:09:44 [INF] [] [  ] File exists: False
+09-08-2023 11:09:44 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 15.8206 ms
+09-08-2023 11:09:49 [INF] [] [  ] folder:groups/user
+09-08-2023 11:09:49 [INF] [] [  ] file: 1
+09-08-2023 11:09:49 [INF] [] [  ] folderPath: ./JsonFiles\groups/user
+09-08-2023 11:09:49 [INF] [] [  ] filePath: ./JsonFiles\groups/user\1.json
+09-08-2023 11:09:49 [INF] [] [  ] Directory exists: True
+09-08-2023 11:09:49 [INF] [] [  ] File exists: True
+09-08-2023 11:09:49 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 20.6329 ms
+09-08-2023 11:09:54 [INF] [] [  ] folder:groups\user
+09-08-2023 11:09:54 [INF] [] [  ] file: 1
+09-08-2023 11:09:54 [INF] [] [  ] folderPath: ./JsonFiles\groups\user
+09-08-2023 11:09:54 [INF] [] [  ] filePath: ./JsonFiles\groups\user\1.json
+09-08-2023 11:09:54 [INF] [] [  ] Directory exists: True
+09-08-2023 11:09:54 [INF] [] [  ] File exists: True
+09-08-2023 11:09:54 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 9.9214 ms
+09-08-2023 11:09:59 [INF] [] [  ] folder:groups\\user
+09-08-2023 11:09:59 [INF] [] [  ] file: 1
+09-08-2023 11:09:59 [INF] [] [  ] folderPath: ./JsonFiles\groups\\user
+09-08-2023 11:09:59 [INF] [] [  ] filePath: ./JsonFiles\groups\\user\1.json
+09-08-2023 11:09:59 [INF] [] [  ] Directory exists: True
+09-08-2023 11:09:59 [INF] [] [  ] File exists: True
+09-08-2023 11:09:59 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 10.5215 ms
+09-08-2023 11:10:03 [INF] [] [  ] folder:groups//user
+09-08-2023 11:10:03 [INF] [] [  ] file: 1
+09-08-2023 11:10:03 [INF] [] [  ] folderPath: ./JsonFiles\groups//user
+09-08-2023 11:10:03 [INF] [] [  ] filePath: ./JsonFiles\groups//user\1.json
+09-08-2023 11:10:03 [INF] [] [  ] Directory exists: True
+09-08-2023 11:10:03 [INF] [] [  ] File exists: True
+09-08-2023 11:10:03 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 12.0875 ms

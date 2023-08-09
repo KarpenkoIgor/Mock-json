@@ -1,0 +1,6 @@
+{
+  "JsonHandler": {
+    "FolderPath": "./JsonFiles"
+  },
+  "AllowedHosts": "*"
+}

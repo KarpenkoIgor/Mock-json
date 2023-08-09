@@ -35,17 +35,15 @@ namespace Mock.Json.Controllers
         [HttpGet("with-folder")]
         public async Task<IActionResult> GetJsonWithFolderPathAsync(string folder, string filename)
         {
-            Log.Information($"folder:{folder}");
-            Log.Information($"file: {filename}");
-            Log.Information($"folderPath: {Path.Combine(_configuration["JsonHandler:FolderPath"], folder)}");
+            Log.Information($"38: folder:{folder}");
+            Log.Information($"39: file: {filename}");
+            Log.Information($"40: folderPath: {Path.Combine(_configuration["JsonHandler:FolderPath"], folder)}");
             var folderPath = Path.Combine(_configuration["JsonHandler:FolderPath"], folder);
-            Log.Information($"filePath: {Path.Combine(folderPath, $"{filename}.json")}");
+            Log.Information($"42: filePath: {Path.Combine(folderPath, $"{filename}.json")}");
             string filePath = Path.Combine(folderPath, $"{filename}.json");
 
-
-            Log.Information($"Directory exists: {Directory.Exists(folderPath)}");
-            Log.Information($"File exists: {System.IO.File.Exists(filePath)}");
-
+            Log.Information($"45: Directory exists: {Directory.Exists(folderPath)}");
+            Log.Information($"46: File exists: {System.IO.File.Exists(filePath)}");
 
             if (!Directory.Exists(folderPath) || !System.IO.File.Exists(filePath))
             {
