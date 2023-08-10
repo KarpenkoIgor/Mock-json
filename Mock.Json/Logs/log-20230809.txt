@@ -466,3 +466,85 @@
 09-08-2023 15:49:04 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
 09-08-2023 15:49:04 [INF] [] [  ] 27: File exists: True
 09-08-2023 15:49:04 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 73.9527 ms
+09-08-2023 16:09:08 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 16:36:36 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 16:36:56 [INF] [] [  ] 23: filename: 1
+09-08-2023 16:36:56 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 16:36:56 [INF] [] [  ] 27: File exists: True
+09-08-2023 16:36:56 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 107.0673 ms
+09-08-2023 16:36:57 [INF] [] [  ] 23: filename: 1
+09-08-2023 16:36:57 [INF] [] [  ] 24: filePath: ./JsonFiles\1.json
+09-08-2023 16:36:57 [INF] [] [  ] 27: File exists: True
+09-08-2023 16:36:57 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 13.0771 ms
+09-08-2023 16:36:57 [INF] [] [  ] 23: filename: favicon.ico
+09-08-2023 16:36:57 [INF] [] [  ] 24: filePath: ./JsonFiles\favicon.ico.json
+09-08-2023 16:36:57 [INF] [] [  ] 27: File exists: False
+09-08-2023 16:36:57 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 36.7497 ms
+09-08-2023 16:40:05 [INF] [] [  ] 23: filename: with-folder&folder=user&filename=1
+09-08-2023 16:40:05 [INF] [] [  ] 24: filePath: ./JsonFiles\with-folder&folder=user&filename=1.json
+09-08-2023 16:40:05 [INF] [] [  ] 27: File exists: False
+09-08-2023 16:40:05 [INF] [] [  ] HTTP "GET" "/with-folder&folder=user&filename=1" responded 404 in 7.5109 ms
+09-08-2023 16:40:21 [INF] [] [  ] 38: folder:user
+09-08-2023 16:40:21 [INF] [] [  ] 39: filename: 1
+09-08-2023 16:40:21 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 16:40:21 [INF] [] [  ] 42: filePath: ./JsonFiles\user\1.json
+09-08-2023 16:40:21 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 16:40:21 [INF] [] [  ] 46: File exists: True
+09-08-2023 16:40:21 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 30.5669 ms
+09-08-2023 16:41:14 [INF] [] [  ] 38: folder:user
+09-08-2023 16:41:14 [INF] [] [  ] 39: filename: 2
+09-08-2023 16:41:14 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 16:41:14 [INF] [] [  ] 42: filePath: ./JsonFiles\user\2.json
+09-08-2023 16:41:14 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 16:41:14 [INF] [] [  ] 46: File exists: False
+09-08-2023 16:41:14 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 8.5971 ms
+09-08-2023 16:41:21 [INF] [] [  ] 38: folder:user
+09-08-2023 16:41:21 [INF] [] [  ] 39: filename: 2
+09-08-2023 16:41:21 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 16:41:21 [INF] [] [  ] 42: filePath: ./JsonFiles\user\2.json
+09-08-2023 16:41:21 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 16:41:21 [INF] [] [  ] 46: File exists: False
+09-08-2023 16:41:21 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 13.8956 ms
+09-08-2023 16:41:32 [INF] [] [  ] 38: folder:user
+09-08-2023 16:41:32 [INF] [] [  ] 39: filename: 1
+09-08-2023 16:41:32 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 16:41:32 [INF] [] [  ] 42: filePath: ./JsonFiles\user\1.json
+09-08-2023 16:41:32 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 16:41:32 [INF] [] [  ] 46: File exists: True
+09-08-2023 16:41:32 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 20.4264 ms
+09-08-2023 17:12:44 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 17:12:51 [INF] [] [  ] 38: folder:user
+09-08-2023 17:12:51 [INF] [] [  ] 39: filename: 1
+09-08-2023 17:12:51 [INF] [] [  ] 40: folderPath: ./JsonFiles\user
+09-08-2023 17:12:51 [INF] [] [  ] 42: filePath: ./JsonFiles\user\1.json
+09-08-2023 17:12:51 [INF] [] [  ] 45: Directory exists: True
+09-08-2023 17:12:51 [INF] [] [  ] 46: File exists: True
+09-08-2023 17:12:51 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 85.7841 ms
+09-08-2023 17:12:59 [INF] [] [  ] HTTP "GET" "/swagger" responded 301 in 2.1595 ms
+09-08-2023 17:12:59 [INF] [] [  ] HTTP "GET" "/swagger/index.html" responded 200 in 226.3919 ms
+09-08-2023 17:13:00 [INF] [] [  ] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 104.8998 ms
+09-08-2023 17:23:04 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 17:23:15 [INF] [] [  ] HTTP "GET" "/1" responded 200 in 94.4255 ms
+09-08-2023 17:28:57 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 17:29:31 [INF] [] [  ] Request from IP: ::1. File not found: user/2
+09-08-2023 17:29:31 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 103.7865 ms
+09-08-2023 17:37:57 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 17:38:10 [INF] [] [  ] Request from IP: ::1. File not found: user/2
+09-08-2023 17:38:10 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 88.3863 ms
+09-08-2023 18:01:37 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 18:17:47 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 18:18:01 [INF] [] [  ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:18:01 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 88.6754 ms
+09-08-2023 18:18:46 [INF] [] [ {} ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 18:18:54 [INF] [] [ {"ActionId":"16b3ae68-be56-42df-b83e-a35e18508c4d","ActionName":"Mock.Json.Controllers.JsonHandlerController.GetJsonWithFolderPathAsync (Mock.Json)","RequestId":"0HMSOTFOVE73S:00000001","RequestPath":"/with-folder","ConnectionId":"0HMSOTFOVE73S"} ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:18:54 [INF] [] [ {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HMSOTFOVE73S:00000001","ConnectionId":"0HMSOTFOVE73S"} ] HTTP "GET" "/with-folder" responded 404 in 91.0734 ms
+09-08-2023 18:19:53 [INF] [] [ {} ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 18:20:30 [INF] [] [ {"RemoteIpAddress":"::1","ActionId":"10e11c4e-32fb-4e4e-92b8-0dea49b5778f","ActionName":"Mock.Json.Controllers.JsonHandlerController.GetJsonWithFolderPathAsync (Mock.Json)","RequestId":"0HMSOTGLAEO7L:00000001","RequestPath":"/with-folder","ConnectionId":"0HMSOTGLAEO7L"} ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:20:30 [INF] [] [ {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HMSOTGLAEO7L:00000001","ConnectionId":"0HMSOTGLAEO7L"} ] HTTP "GET" "/with-folder" responded 404 in 89.6805 ms
+09-08-2023 18:20:31 [INF] [] [ {"RemoteIpAddress":"::1","ActionId":"10e11c4e-32fb-4e4e-92b8-0dea49b5778f","ActionName":"Mock.Json.Controllers.JsonHandlerController.GetJsonWithFolderPathAsync (Mock.Json)","RequestId":"0HMSOTGLAEO7L:00000003","RequestPath":"/with-folder","ConnectionId":"0HMSOTGLAEO7L"} ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:20:31 [INF] [] [ {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HMSOTGLAEO7L:00000003","ConnectionId":"0HMSOTGLAEO7L"} ] HTTP "GET" "/with-folder" responded 404 in 5.7690 ms
+09-08-2023 18:20:33 [INF] [] [ {"RemoteIpAddress":"::1","ActionId":"10e11c4e-32fb-4e4e-92b8-0dea49b5778f","ActionName":"Mock.Json.Controllers.JsonHandlerController.GetJsonWithFolderPathAsync (Mock.Json)","RequestId":"0HMSOTGLAEO7L:00000005","RequestPath":"/with-folder","ConnectionId":"0HMSOTGLAEO7L"} ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:20:33 [INF] [] [ {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HMSOTGLAEO7L:00000005","ConnectionId":"0HMSOTGLAEO7L"} ] HTTP "GET" "/with-folder" responded 404 in 3.4620 ms
+09-08-2023 18:21:04 [INF] [] [ {} ] Starting Mock.Json service: https://localhost:7073
+09-08-2023 18:21:19 [INF] [] [ {"RemoteIpAddress":"::1","ActionId":"46d9b8fb-e745-4abd-9d05-f460c1fe9000","ActionName":"Mock.Json.Controllers.JsonHandlerController.GetJsonWithFolderPathAsync (Mock.Json)","RequestId":"0HMSOTH44NHBC:00000001","RequestPath":"/with-folder","ConnectionId":"0HMSOTH44NHBC"} ] Request from IP: ::1. File not found: user/2
+09-08-2023 18:21:19 [INF] [] [ {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HMSOTH44NHBC:00000001","ConnectionId":"0HMSOTH44NHBC"} ] HTTP "GET" "/with-folder" responded 404 in 91.9662 ms

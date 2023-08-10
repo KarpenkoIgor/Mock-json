@@ -18,7 +18,7 @@
       {
         "Name": "Console",
         "Args": {
-          "outputTemplate": "{Timestamp:dd-MM-yyyy HH:mm:ss} [{Level:u3}] [{ThreadId}] [{TraceId:l}] {Message}{NewLine}{Exception}"
+          "outputTemplate": "{Timestamp:dd-MM-yyyy HH:mm:ss} [{Level:u3}] [{RemoteIpAddress}] {Message}{NewLine}{Exception}"
         }
       },
       {
@@ -28,10 +28,22 @@
           "rollOnFileSizeLimit": true,
           "formatter": "Serilog.Formatting.Compact.CompactJsonFormatter,Serilog.Formatting.Compact",
           "rollingInterval": "Day",
-          "outputTemplate": "{Timestamp:dd-MM-yyyy HH:mm:ss} [{Level:u3}] [{ThreadId}] [{TraceId:l} {ClientIp} {ClientAgent}] {Message}{NewLine}{Exception}"
+          "outputTemplate": "{Timestamp:dd-MM-yyyy HH:mm:ss} [{Level:u3}] [{ThreadId}] [{TraceId:l} {RemoteIpAddress} {ClientAgent}] {Message}{NewLine}{Exception}"
         }
       }
     ],
-    "Enrich": [ "FromLogContext", "WithThreadId", "WithMachineName" ]
+    "Enrich": [
+      "FromLogContext",
+      "WithThreadId",
+      "WithMachineName",
+      "WithProcessId",
+      {
+        "Name": "WithPropertyEnricher",
+        "Args": {
+          "property1": "value1",
+          "property2": "value2"
+        }
+      }
+    ]
   }
 }

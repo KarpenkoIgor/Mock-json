@@ -1,0 +1,79 @@
+10-08-2023 09:44:38 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 09:44:54 [INF] [] [  ] Request from IP: ::1. File not found: user/2
+10-08-2023 09:44:54 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 107.7594 ms
+10-08-2023 09:44:54 [INF] [] [  ] Request from IP: ::1. File not found: favicon.ico
+10-08-2023 09:44:54 [INF] [] [  ] HTTP "GET" "/favicon.ico" responded 404 in 11.1392 ms
+10-08-2023 10:27:31 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 10:27:35 [INF] [] [  ] HTTP "GET" "/with-folder" responded 200 in 84.9265 ms
+10-08-2023 10:27:41 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:27:41 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 44.3865 ms
+10-08-2023 10:27:58 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 10:28:03 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:28:04 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 88.7113 ms
+10-08-2023 10:28:11 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:28:11 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 10.7076 ms
+10-08-2023 10:28:14 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:28:14 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 3.1667 ms
+10-08-2023 10:29:54 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 10:30:10 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:30:10 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 90.0097 ms
+10-08-2023 10:30:13 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:30:13 [INF] [] [  ] HTTP "GET" "/with-folder" responded 404 in 13.0195 ms
+10-08-2023 10:32:55 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 10:33:04 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:33:21 [INF] [] [  ] Request from IP: ::1. File not found: user/4
+10-08-2023 10:37:38 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 10:37:44 [INF] [] [  ] Request from IP: ::1. File not found: user/3
+10-08-2023 10:55:51 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:02:55 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:14:19 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:14:30 [INF] [] [ ::1 ] HTTP "GET" "/random/groups/user" responded 404 in 13.3586 ms
+10-08-2023 11:14:40 [INF] [] [ ::1 ] HTTP "GET" "/random/grouзы" responded 404 in 81.1104 ms
+10-08-2023 11:14:45 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 25.7322 ms
+10-08-2023 11:20:04 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:20:06 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 76.4868 ms
+10-08-2023 11:21:10 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:21:13 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 86.9201 ms
+10-08-2023 11:23:06 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:24:38 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 82.0839 ms
+10-08-2023 11:24:45 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 5.4049 ms
+10-08-2023 11:24:48 [INF] [] [  ] Request from IP: ::1. File not found: groups/20
+10-08-2023 11:24:48 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 404 in 27.4979 ms
+10-08-2023 11:26:12 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:26:16 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 77.3630 ms
+10-08-2023 11:26:23 [INF] [] [ ::1 ] HTTP "GET" "/1" responded 200 in 17.9955 ms
+10-08-2023 11:26:31 [INF] [] [ ::1 ] HTTP "GET" "/4" responded 404 in 25.4729 ms
+10-08-2023 11:26:55 [INF] [] [ ::1 ] HTTP "GET" "/4" responded 200 in 14.7114 ms
+10-08-2023 11:26:59 [INF] [] [ ::1 ] HTTP "GET" "/5" responded 200 in 9.4784 ms
+10-08-2023 11:28:46 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:29:53 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 71.6202 ms
+10-08-2023 11:29:54 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.6775 ms
+10-08-2023 11:29:55 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.2623 ms
+10-08-2023 11:29:55 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.1405 ms
+10-08-2023 11:29:55 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 3.5851 ms
+10-08-2023 11:29:55 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 3.7990 ms
+10-08-2023 11:29:56 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.2473 ms
+10-08-2023 11:29:56 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.0639 ms
+10-08-2023 11:29:56 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 2.5452 ms
+10-08-2023 11:29:56 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.1163 ms
+10-08-2023 11:29:56 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.4804 ms
+10-08-2023 11:29:57 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.4351 ms
+10-08-2023 11:29:57 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.8073 ms
+10-08-2023 11:29:58 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.2332 ms
+10-08-2023 11:29:58 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.6818 ms
+10-08-2023 11:29:59 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.7473 ms
+10-08-2023 11:29:59 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.3034 ms
+10-08-2023 11:29:59 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.5705 ms
+10-08-2023 11:30:00 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.5546 ms
+10-08-2023 11:30:00 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 4.9443 ms
+10-08-2023 11:30:05 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 5.0428 ms
+10-08-2023 11:30:07 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 4.3651 ms
+10-08-2023 11:30:07 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.7814 ms
+10-08-2023 11:30:07 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 4.5798 ms
+10-08-2023 11:30:07 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 2.8916 ms
+10-08-2023 11:30:07 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.6149 ms
+10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.3027 ms
+10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.7885 ms
+10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.9640 ms
+10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 4.2708 ms
+10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.3932 ms

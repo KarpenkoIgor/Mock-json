@@ -43,7 +43,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -52,6 +52,10 @@
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Serilog.Enrichers.ClientInfo": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             },
             "Serilog.Sinks.Async": {
               "target": "Package",

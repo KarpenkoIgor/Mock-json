@@ -84,3 +84,14 @@ C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
 C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\Serilog.Sinks.File.dll
 C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\2.json
 C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\user\1.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\Serilog.Enrichers.ClientInfo.dll
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\1.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\2.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\3.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\4.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\5.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\groups\user\2.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\user\2.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\user\3.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\user\4.json
+C:\Nik\Unidev\Mock-json\Mock.Json\bin\Debug\net7.0\JsonFiles\user\5.json
