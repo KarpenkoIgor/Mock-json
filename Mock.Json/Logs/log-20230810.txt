@@ -77,3 +77,63 @@
 10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.9640 ms
 10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 4.2708 ms
 10-08-2023 11:30:08 [INF] [] [ ::1 ] HTTP "GET" "/random/groups" responded 200 in 3.3932 ms
+10-08-2023 11:46:13 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:46:29 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:48:00 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:48:50 [INF] [] [ ::1 ] HTTP "GET" "/1" responded 200 in 96.4727 ms
+10-08-2023 11:48:58 [INF] [] [ ::1 ] HTTP "GET" "/2" responded 200 in 20.2316 ms
+10-08-2023 11:49:11 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 20.1221 ms
+10-08-2023 11:49:57 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 8.8984 ms
+10-08-2023 11:50:00 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 13.9288 ms
+10-08-2023 11:50:22 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:50:27 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 75.3644 ms
+10-08-2023 11:52:00 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:57:16 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 11:57:26 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 71.4542 ms
+10-08-2023 11:58:13 [INF] [] [  ]   responded  in  ms
+10-08-2023 11:58:37 [INF] [] [ ::1 ]  /with-folder responded 200 in 85.0614 ms
+10-08-2023 12:01:51 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:01:57 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 74.4077 ms
+10-08-2023 12:02:02 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 5.6298 ms
+10-08-2023 12:02:09 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 3.7218 ms
+10-08-2023 12:02:14 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 4.3769 ms
+10-08-2023 12:03:26 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:03:38 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 84.7273 ms
+10-08-2023 12:04:37 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:04:37 [INF] [] [ 127.0.0.1 ] HTTP "GET" "/with-folder" responded 200 in 87.2461 ms
+10-08-2023 12:04:58 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:05:00 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 80.2103 ms
+10-08-2023 12:05:27 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:05:30 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 81.8334 ms
+10-08-2023 12:07:40 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:07:49 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 86.9753 ms
+10-08-2023 12:09:14 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 15.0366 ms
+10-08-2023 12:35:57 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:36:10 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 81.7127 ms
+10-08-2023 12:36:22 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:36:30 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 102.5800 ms
+10-08-2023 12:36:46 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 9.4591 ms
+10-08-2023 12:38:57 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:39:20 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 82.4645 ms
+10-08-2023 12:39:43 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:45:53 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 12:45:56 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 79.8787 ms
+10-08-2023 12:48:25 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 12.8219 ms
+10-08-2023 12:48:30 [INF] [] [ ::1 ] HTTP "GET" "/random" responded 404 in 39.6862 ms
+10-08-2023 12:48:56 [INF] [] [ ::1 ] HTTP "GET" "/random" responded 404 in 1.3609 ms
+10-08-2023 12:49:20 [INF] [] [ ::1 ] HTTP "GET" "/random/" responded 404 in 0.4162 ms
+10-08-2023 12:49:29 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 5.0454 ms
+10-08-2023 13:45:28 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:45:41 [INF] [] [ ::1 ] HTTP "GET" "/random/user" responded 200 in 97.3538 ms
+10-08-2023 13:46:09 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 12498.7618 ms
+10-08-2023 13:48:54 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:49:12 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 78.6745 ms
+10-08-2023 13:49:35 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:49:39 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 81.7269 ms
+10-08-2023 13:51:32 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:51:41 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 100.7246 ms
+10-08-2023 13:52:21 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:52:23 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 85.6128 ms
+10-08-2023 13:53:59 [INF] [] [  ] Starting Mock.Json service: https://localhost:7073
+10-08-2023 13:54:06 [INF] [] [ ::1 ] HTTP "GET" "/with-folder" responded 200 in 90.5086 ms
+10-08-2023 13:58:10 [INF] [] [  ] {Message | NewLine}10-08-2023 13:58:16 [INF] [] [ ::1 ] {Message | /with-folder?folder=user&filename=1NewLine}10-08-2023 14:00:14 [INF] [] [  ] {Message | NewLine}10-08-2023 14:00:21 [INF] [] [ ::1 ] {Message | ["[folder, user]", "[filename, 1]"]NewLine}10-08-2023 14:00:57 [INF] [] [ ::1 ] {Message | ["[folder, user1]", "[filename, 1]"]NewLine}10-08-2023 14:01:05 [INF] [] [ ::1 ] {Message | ["[folder, user]", "[filename, 1]"]NewLine}10-08-2023 14:01:08 [INF] [] [ ::1 ] {Message | ["[folder, user]", "[filename, 11]"]NewLine}
